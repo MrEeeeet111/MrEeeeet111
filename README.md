@@ -1,7 +1,7 @@
 ### Hi there, I'm Evan Etton, Senior Software Engineer at StockX 👋
 
 - 🌱 I’m currently learning Python & studying data structures and algorithms
-- 💬 Ask me about anything [here](https://github.com/MrEeeeet111/MrEeeeet111)/issues)
+- 💬 Ask me about anything [here](https://github.com/MrEeeeet111/MrEeeeet111/issues)
 - 😄 Pronouns: He/Him
 
 ### Languages and Tools:
